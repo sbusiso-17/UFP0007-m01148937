@@ -1,0 +1,11 @@
+Weekly temperature report
+|--Read the temperature......readTemp()
+|--Print each day............printTemp()
+|  '--Name of the day........dayName()
+|--Work out the results......(in Main)
+|--|--Average................average()
+|--|--Hottest................hottest()
+|--|--Lowest.................lowest()
+|--'--Count the limit days..daysHot()
+|--print the report..........report()
+
